@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="541.467" height="579.411" viewBox="0 0 541.467 579.411">
+  <defs>
+    <filter id="Path_70" x="0" y="0" width="541.467" height="579.411" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#ff3c00" flood-opacity="0.42"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="ConclaveLogo" transform="translate(-682.746 -103.114)">
+    <g transform="matrix(1, 0, 0, 1, 682.75, 103.11)" filter="url(#Path_70)">
+      <path id="Path_70-2" data-name="Path 70" d="M314,433.11,567.242,364l249.429,69.11L777.1,765.664,571.538,904.475,357.711,767.436Z" transform="translate(-294.58 -347.85)" fill="#ff531e" stroke="#fff" stroke-width="8"/>
+    </g>
+    <path id="Path_71" data-name="Path 71" d="M682.246,760.369s92.146-5.513,92.146-132.706H750.765v6.694h-12.6V546.148s-5.647-42.76-42.529-59.313V565.05H685.4V483.182a81.785,81.785,0,0,0-18.4-2.721V565.05H656.754V480.587a90.779,90.779,0,0,0-19.2,3.14V565.05H627.312V487.4c-34.577,15.4-41.545,51.367-41.545,58.749v88.6h-11.42v-8.663H550.327S533.393,735.56,640.9,759.976l.394,57.493h-89v12.995H771.636V817.469h-89.39ZM571.2,647.746H583.4s4.935,77.182,78.469,77.182,76.684-77.182,76.684-77.182h15.358s-2.757,93.721-91.359,93.721S571.2,647.746,571.2,647.746Z" transform="translate(291.83 -292.407)" fill="#fff"/>
+  </g>
+</svg>

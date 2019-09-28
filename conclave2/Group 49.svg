@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1947.188" height="651.97" viewBox="0 0 1947.188 651.97">
+  <defs>
+    <filter id="Path_70" x="696.485" y="73.53" width="540.564" height="578.44" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feFlood flood-color="#ff3c00" flood-opacity="0.42"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="TopWhiteRight" x="1194.658" y="199.421" width="745.893" height="295.07" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-2"/>
+      <feFlood flood-color="#ff2a00" flood-opacity="0.322"/>
+      <feComposite operator="in" in2="blur-2"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="TopWhiteLeft" x="6" y="210.126" width="737.317" height="281.636" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur-3"/>
+      <feFlood flood-color="#ff3c00" flood-opacity="0.388"/>
+      <feComposite operator="in" in2="blur-3"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+    <filter id="TopOrange" x="0" y="0" width="1947.188" height="448.266" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="5" result="blur-4"/>
+      <feFlood flood-color="#ff3f05" flood-opacity="0.341"/>
+      <feComposite operator="in" in2="blur-4"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Group_49" data-name="Group 49" transform="translate(13.275 12)">
+    <g id="ConclaveLogo" transform="translate(702.628 77.678)">
+      <g transform="matrix(1, 0, 0, 1, -715.9, -89.68)" filter="url(#Path_70)">
+        <path id="Path_70-2" data-name="Path 70" d="M314,432.986,566.787,364l248.981,68.986-39.5,331.957L571.075,903.5,357.632,766.711Z" transform="translate(401.9 -274.32)" fill="#ff531e" stroke="#fff" stroke-width="8"/>
+      </g>
+      <path id="Path_71" data-name="Path 71" d="M682.007,759.866s91.981-5.5,91.981-132.468H750.4v6.682H737.824V546.03s-5.637-42.683-42.453-59.206V564.9h-10.22V483.177a81.638,81.638,0,0,0-18.37-2.716V564.9H656.561V480.587a90.617,90.617,0,0,0-19.169,3.134V564.9h-10.22V487.387c-34.515,15.368-41.47,51.275-41.47,58.644v88.443H574.3v-8.648H550.325s-16.9,109.276,90.408,133.648l.393,57.39H552.29v12.972H771.237V816.863h-89.23ZM571.158,647.445h12.186s4.926,77.043,78.328,77.043,76.547-77.043,76.547-77.043h15.33S750.8,741,662.353,741,571.158,647.445,571.158,647.445Z" transform="translate(-410.585 -411.793)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -13.27, -12)" filter="url(#TopWhiteRight)">
+      <path id="TopWhiteRight-2" data-name="TopWhiteRight" d="M6582.69,438.17,6326.655,308.032,6010.124,453.283,5854.8,377.719l10.915-78.083,472.7-123.422,244.281,211.58Z" transform="translate(-4651.14 29.21)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -13.27, -12)" filter="url(#TopWhiteLeft)">
+      <path id="TopWhiteLeft-2" data-name="TopWhiteLeft" d="M4664,439.659l241.583-131.818,317.371,142.733,160.364-73.046-10.075-82.281-265.315-78.083s-295.541-30.226-287.145-30.226S4664,384.245,4664,384.245Z" transform="translate(-4649 29.19)" fill="#fff"/>
+    </g>
+    <g transform="matrix(1, 0, 0, 1, -13.27, -12)" filter="url(#TopOrange)">
+      <path id="TopOrange-2" data-name="TopOrange" d="M4664,382.725V-17.555H6581.188V387.8L6326.632,256.831,6007.514,400.71l-147.569-71.94,23.98-208.441L5621.991,44.7l-271.619,75.629,27.669,208.441-154.947,71.94-315.429-143.88Z" transform="translate(-4649 29.56)" fill="#ff531e"/>
+    </g>
+  </g>
+</svg>
