@@ -39,6 +39,16 @@
       text-shadow: -2px -2px 0 #fc5e03, 2px -2px 0 #fc5e03, -2px 2px 0 #fc5e03, 2px 2px 0 #fc5e03;
 
     }
+
+    .info{
+      font-size: 3vw;
+      color: white;
+      text-align: center;
+      margin-right: 10%;
+      margin-left:10%;
+      position: relative;
+      width: 80%;
+    }
     .past_speaker{
       text-align: center;
       position: relative;
